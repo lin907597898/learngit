@@ -1,2 +1,2 @@
-I learoning git
-it is wonderful.
+I learoning git,i change it
+it is wonderful.git is a free software.
